@@ -3,7 +3,6 @@ import 'package:flutter_elux_app/Screens/Login/login_screen.dart';
 import 'package:flutter_elux_app/Screens/Register/register_screen.dart';
 import 'package:flutter_elux_app/config/constants.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:flutter_staggered_animations/flutter_staggered_animations.dart';
 
 class WelcomeScreen extends StatelessWidget {
   static const String routeName = '/welcome';

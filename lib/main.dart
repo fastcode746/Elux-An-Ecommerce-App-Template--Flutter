@@ -115,8 +115,17 @@ class _MyAppState extends State<MyApp> {
     );
   }
 }
-//
-//
+
+
+
+
+
+
+
+
+
+
+
 // If you want to load images one by one this is suitable for that.
 // void preloadImages(List<String> imageUrls) {
 //   for (var url in imageUrls) {
